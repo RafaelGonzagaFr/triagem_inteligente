@@ -1,0 +1,15 @@
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\bin\Debug\net10.0\TriagemInteligente.exe
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\bin\Debug\net10.0\TriagemInteligente.deps.json
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\bin\Debug\net10.0\TriagemInteligente.runtimeconfig.json
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\bin\Debug\net10.0\TriagemInteligente.dll
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\bin\Debug\net10.0\TriagemInteligente.pdb
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\TriagemInteligente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\TriagemInteligente.AssemblyInfoInputs.cache
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\TriagemInteligente.AssemblyInfo.cs
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\TriagemInteligente.csproj.CoreCompileInputs.cache
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\TriagemInteligente.sourcelink.json
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\TriagemInteligente.dll
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\refint\TriagemInteligente.dll
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\TriagemInteligente.pdb
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\TriagemInteligente.genruntimeconfig.cache
+C:\Users\rafael.franca\Documents\19 - Sistemas\TriagemInteligente\obj\Debug\net10.0\ref\TriagemInteligente.dll
